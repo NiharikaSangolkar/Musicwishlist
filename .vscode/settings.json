@@ -1,0 +1,16 @@
+{
+    "mysql.connections": [
+        {
+            "mysqlOptions": {
+                "connectionLimit": 10
+            },
+            "server": "localhost",
+            "port": 3306,
+            "username": "root",
+            "password": "Niharika2001",
+            "database": "music_wishlist",
+            "name": "local_mysql"
+        
+        }
+    ]
+}
